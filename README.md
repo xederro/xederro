@@ -13,14 +13,14 @@ or connect with me on LinkedIn at [![LinkedIn](https://img.shields.io/badge/-Lin
 -   **Maria Skłodowska-Curie vocational/technical school**, Computer Science (September 2018 - June 2022)
 
 ## Certificates and Courses
-
--   Laravel Framework: wielkie kompendium programisty PHP
+-  Professional Vocational Qualifications diploma in Computer Science as issued by Okręgowa Komisja Egzaminacyjna w Krakowie
+-   NDG Introduction to Linux I course
 -   CCNAv7: Introduction to Networks
+-   IT Essentials: PC Hardware and Software
+-   Laravel Framework: wielkie kompendium programisty PHP
 -   Programowanie w PHP 7.4 od podstaw: teoria i praktyka
 -   Tworzenie i obróbka obrazów z Adobe Photoshop
 -   Git and GitHub from scratch
--   IT Essentials: PC Hardware and Software
--   NDG Introduction to Linux I course
 
 ## Languages
 
