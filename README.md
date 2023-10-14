@@ -34,6 +34,13 @@ or connect with me on LinkedIn at [![LinkedIn](https://img.shields.io/badge/-Lin
 -  ![Firebase](https://img.shields.io/badge/-Firebase-blueviolet?style=flat-square&logo=firebase&logoColor=white)
 -  ![Vue](https://img.shields.io/badge/-Vue-blueviolet?style=flat-square&logo=vue.js&logoColor=white)
 
+
+## Languages
+
+-   🇵🇱 **Polish** - Native
+-   🇺🇸 **English** - B2
+
+
 ## Certificates and Courses
 -  Professional Vocational Qualifications diploma in Computer Science as issued by Okręgowa Komisja Egzaminacyjna w Krakowie
 -   NDG Introduction to Linux I course
