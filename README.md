@@ -14,25 +14,20 @@ or connect with me on LinkedIn at [![LinkedIn](https://img.shields.io/badge/-Lin
 
 ## Projects
 
-| Project                                                                                                                                                                                                                            | Stars | Forks | Issues | Pull Requests |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----- | ------ | ------------- |
-| [![Gates Simulator](https://img.shields.io/badge/-Gates_Simulator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/cholewakrzysztof/lab-project)]([https://github.com/cholewakrzysztof/lab-project](https://github.com/cholewakrzysztof/lab-project))|![Gates Simulator](https://img.shields.io/github/stars/cholewakrzysztof/lab-project?color=blueviolet&style=flat-square)|![Gates Simulator](https://img.shields.io/github/forks/cholewakrzysztof/lab-project?color=blueviolet&style=flat-square)|![Gates Simulator](https://img.shields.io/github/issues/cholewakrzysztof/lab-project?color=blueviolet&style=flat-square)|![Gates Simulator](https://img.shields.io/github/issues-pr/cholewakrzysztof/lab-project?color=blueviolet&style=flat-square)|
-| [![DcWebhookMessager](https://img.shields.io/badge/-Dc_Webhook_Messager-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/DcWebhookMessager)](https://github.com/xederro/DcWebhookMessager) |![DcWebhookMessager](https://img.shields.io/github/stars/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|![DcWebhookMessager](https://img.shields.io/github/forks/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|![DcWebhookMessager](https://img.shields.io/github/issues/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|![DcWebhookMessager](https://img.shields.io/github/issues-pr/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|
-| [![Invoice_Generator](https://img.shields.io/badge/-Invoice_Generator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/Invoice_Generator)](https://github.com/xederro/Invoice_Generator)   |![Invoice_Generator](https://img.shields.io/github/stars/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|![DcWebhookMessager](https://img.shields.io/github/forks/xederro/DcWebhookMessager?color=blueviolet&style=flat-square)|![Invoice_Generator](https://img.shields.io/github/issues/xederro/Invoice_Generator?color=blueviolet&style=flat-square)|![Invoice_Generator](https://img.shields.io/github/issues-pr/xederro/Invoice_Generator?color=blueviolet&style=flat-square)|
-| [![photo-editor](https://img.shields.io/badge/-Photo_Editor-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/photo-editor)](https://github.com/xederro/photo-editor)|![photo-editor](https://img.shields.io/github/stars/xederro/photo-editor?color=blueviolet&style=flat-square)|![photo-editor](https://img.shields.io/github/forks/xederro/photo-editor?color=blueviolet&style=flat-square)|![photo-editor](https://img.shields.io/github/issues/xederro/photo-editor?color=blueviolet&style=flat-square)|![photo-editor](https://img.shields.io/github/issues-pr/xederro/photo-editor?color=blueviolet&style=flat-square)|
-| [![tracker](https://img.shields.io/badge/-tracker-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/tracker)](https://github.com/xederro/tracker)|![tracker](https://img.shields.io/github/stars/xederro/tracker?color=blueviolet&style=flat-square)|![tracker](https://img.shields.io/github/forks/xederro/tracker?color=blueviolet&style=flat-square)|![tracker](https://img.shields.io/github/issues/xederro/tracker?color=blueviolet&style=flat-square)|![tracker](https://img.shields.io/github/issues-pr/xederro/tracker?color=blueviolet&style=flat-square)|
-
+1. [![USOSTableParser](https://img.shields.io/badge/-USOSTableParser-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/USOSTableParser)](https://xederro.github.io/USOSTableParser/)
+2. [![StudiaUtils](https://img.shields.io/badge/-StudiaUtils-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/StudiaUtils)](https://github.com/xederro/StudiaUtils)
+3. [![Invoice_Generator](https://img.shields.io/badge/-Invoice_Generator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/lab-Invoice_Generator)](https://github.com/xederro/lab-Invoice_Generator)
+4. [![Aranżacje Stylowe](https://img.shields.io/badge/-Aran%C5%BCacje_Stylowe-blueviolet?style=flat-square&logo=wordpress&logoColor=white&link=https://aranzacjestylowe.pl/)](https://aranzacjestylowe.pl/)
+5. [![Gates Simulator](https://img.shields.io/badge/-Gates_Simulator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/cholewakrzysztof/lab-project)](https://github.com/cholewakrzysztof/lab-project)
+   
 ## Technologies
 
 -  ![Golang](https://img.shields.io/badge/-Golang-blueviolet?style=flat-square&logo=go&logoColor=white) 
--  ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php&logoColor=white)
--  ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
--  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=bootstrap&logoColor=white)
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=php&logoColor=white)
--  ![Chart.js](https://img.shields.io/badge/-Chart.js-blueviolet?style=flat-square&logo=chart.js&logoColor=white)
--  ![MariaDB](https://img.shields.io/badge/-MariaDB-blueviolet?style=flat-square&logo=mariadb&logoColor=white)
--  ![Firebase](https://img.shields.io/badge/-Firebase-blueviolet?style=flat-square&logo=firebase&logoColor=white)
+-  ![PostgreSQL](https://img.shields.io/badge/postgresql-blueviolet?style=flat-square&logo=postgresql&logoColor=white)
 -  ![Vue](https://img.shields.io/badge/-Vue-blueviolet?style=flat-square&logo=vue.js&logoColor=white)
+-  ![Git/Github](https://img.shields.io/badge/git-blueviolet?style=flat-square&logo=git&logoColor=white)
+-  ![Docker](https://img.shields.io/badge/docker-blueviolet?style=flat-square&logo=docker&logoColor=white)
 
 
 ## Languages
@@ -42,14 +37,10 @@ or connect with me on LinkedIn at [![LinkedIn](https://img.shields.io/badge/-Lin
 
 
 ## Certificates and Courses
--  Professional Vocational Qualifications diploma in Computer Science as issued by Okręgowa Komisja Egzaminacyjna w Krakowie
+-   Professional Vocational Qualifications diploma in Computer Science as issued by Okręgowa Komisja Egzaminacyjna w Krakowie
 -   NDG Introduction to Linux I course
 -   CCNAv7: Introduction to Networks
 -   IT Essentials: PC Hardware and Software
--   Laravel Framework: wielkie kompendium programisty PHP
--   Programowanie w PHP 7.4 od podstaw: teoria i praktyka
--   Tworzenie i obróbka obrazów z Adobe Photoshop
--   Git and GitHub from scratch
 
 Thank you for visiting my profile! Feel free to check out my projects and connect with me.
 
