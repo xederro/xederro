@@ -16,7 +16,7 @@ or connect with me on LinkedIn at [![LinkedIn](https://img.shields.io/badge/-Lin
 
 1. [![USOSTableParser](https://img.shields.io/badge/-USOSTableParser-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/USOSTableParser)](https://xederro.github.io/USOSTableParser/)
 2. [![StudiaUtils](https://img.shields.io/badge/-StudiaUtils-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/StudiaUtils)](https://github.com/xederro/StudiaUtils)
-3. [![Invoice_Generator](https://img.shields.io/badge/-Invoice_Generator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/lab-Invoice_Generator)](https://github.com/xederro/lab-Invoice_Generator)
+3. [![Invoice_Generator](https://img.shields.io/badge/-Invoice_Generator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/xederro/Invoice_Generator)](https://github.com/xederro/lab-Invoice_Generator)
 4. [![Aranżacje Stylowe](https://img.shields.io/badge/-Aran%C5%BCacje_Stylowe-blueviolet?style=flat-square&logo=wordpress&logoColor=white&link=https://aranzacjestylowe.pl/)](https://aranzacjestylowe.pl/)
 5. [![Gates Simulator](https://img.shields.io/badge/-Gates_Simulator-blueviolet?style=flat-square&logo=github&logoColor=white&link=https://github.com/cholewakrzysztof/lab-project)](https://github.com/cholewakrzysztof/lab-project)
    
